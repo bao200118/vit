@@ -1,0 +1,33 @@
+Model Evaluation Results
+=======================
+
+Model path: /storageStudents/ncsmmlab/tungufm/VitFromScratch/final/vit_v2_final.pth
+
+Overall Metrics:
+--------------
+Total Accuracy: 0.4363
+Mean Loss: 2.3823
+
+Top 10 Performing Classes:
+1. wardrobe: 0.8700
+2. plain: 0.8500
+3. cloud: 0.7600
+4. oak_tree: 0.7600
+5. skyscraper: 0.7600
+6. sunflower: 0.7300
+7. orange: 0.7200
+8. castle: 0.7100
+9. road: 0.7100
+10. chair: 0.6800
+
+Bottom 10 Performing Classes:
+1. seal: 0.2100
+2. man: 0.2000
+3. spider: 0.1900
+4. woman: 0.1900
+5. bowl: 0.1800
+6. snail: 0.1500
+7. girl: 0.1400
+8. otter: 0.1300
+9. lizard: 0.1200
+10. beaver: 0.1000

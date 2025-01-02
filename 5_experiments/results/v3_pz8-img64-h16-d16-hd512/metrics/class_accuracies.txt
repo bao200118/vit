@@ -1,0 +1,33 @@
+Model Evaluation Results
+==============================
+
+Model path: checkpoints/v3_pz8-img64-h16-d16-hd512/best.pt
+
+Overall Metrics:
+------------------------------
+Total Accuracy: 41.8700
+Mean Loss: 2.2249
+
+Top 10 Performing Classes:
+1. sunflower: 0.8395
+2. wardrobe: 0.7647
+3. apple: 0.7375
+4. plain: 0.7345
+5. castle: 0.7045
+6. cloud: 0.6629
+7. skyscraper: 0.6628
+8. chimpanzee: 0.6622
+9. motorcycle: 0.6484
+10. road: 0.6406
+
+Bottom 10 Performing Classes:
+1. girl: 0.2524
+2. lamp: 0.2523
+3. lobster: 0.2500
+4. spider: 0.2407
+5. snail: 0.2390
+6. rabbit: 0.2308
+7. otter: 0.2273
+8. bowl: 0.2174
+9. turtle: 0.2166
+10. table: 0.2126
